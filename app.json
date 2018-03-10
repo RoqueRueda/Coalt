@@ -1,0 +1,16 @@
+{
+  "name": "Coalt",
+  "description": "Services for iot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
